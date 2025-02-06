@@ -1,9 +1,9 @@
 {
   "site": {
     "url": "https://gyoza.lxchapu.com",
-    "title": "Gyoza",
+    "title": "秋萍",
     "description": "这是一个使用 Astro 和 React 开发的博客主题。",
-    "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
+    "keywords": "秋萍,blog,Astro,theme,lxchapu,博客主题",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
@@ -11,12 +11,12 @@
   "author": {
     "name": "lxchapu",
     "twitterId": "@lxchapu",
-    "avatar": "https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp"
+    "avatar": "https://times-srm.timesgroup.cn:8182/IspAPP/cuxfiledownloadservlet?uuid=2e3c3683-044d-4d91-a715-bcac5b8c48e6"
   },
   "hero": {
-    "name": "Gyoza",
-    "bio": "A static blog template build with Astro and React.",
-    "description": "Clean, Cute, Fast.",
+    "name": "秋萍",
+    "bio": "短视频千万粉丝缔造者",
+    "description": "抖音/视频号/小红书",
     "socials": [
       {
         "name": "Github",
